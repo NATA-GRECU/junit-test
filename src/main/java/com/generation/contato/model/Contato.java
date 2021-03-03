@@ -23,7 +23,6 @@ public class Contato
 	private String nome;
 
 	public Contato() {
-		super();
 	}
 
 	public Contato(String ddd, String telefone, String nome) {
